@@ -4,7 +4,7 @@ def check (n,a,b):
     else:
         return False
 
-        
+#print
 print('how many students do you have')
 students=input()
 st_grade={}
